@@ -1,4 +1,5 @@
 /*
+ * main.cpp - Firmware para dispositivo IoT con MQTT y TLS
  * The MIT License
  *
  * Copyright 2024 Alvaro Salazar <alvaro@denkitronik.com>.
